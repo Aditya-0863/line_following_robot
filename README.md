@@ -8,11 +8,11 @@ Follows a black line on a white surface using an IR sensor array.
 Motors adjust speed based on sensor readings to stay centered on the line.
 
 ## Hardware
-- Arduino Uno / Nano (or ESP32 — whichever you used)
-- IR sensor array (5-channel or 8-channel)
-- L298N or L293D motor driver
+- Arduino Uno 
+- IR sensor array 
+- L298N motor driver
 - 2x DC motors + chassis
-- 7.4V/9V battery pack
+- 7.4V battery pack
 
 ## What I Learned
 - How IR sensors detect contrast (black vs white reflectivity)
