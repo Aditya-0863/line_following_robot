@@ -33,4 +33,4 @@ tuning.
 - Foundation for sensor-based control systems used in later projects
 
 ## Files
-- `line_following_robot.ino` — Main Arduino sketch
+- [line_following_robot.ino](line_following_robot.ino) — Main Arduino sketch
