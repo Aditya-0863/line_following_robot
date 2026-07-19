@@ -35,5 +35,9 @@ tuning.
 ## Files
 - [line_following_robot.ino](line_following_robot.ino) — Main Arduino sketch
 
+## Images
+- [Images of the robot](https://github.com/Aditya-0863/line_following_robot/tree/main/images)
+  
 ## Demo Video
 - [Watch the line follower in action](https://www.linkedin.com/posts/aditya-anil-a48ba7359_embeddedsystems-arduino-microcontrollers-ugcPost-7433776190315851776-OBBx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlX8xgBJyX0IBHEsC9QDMeTRqP9eZLxdfw)
+
